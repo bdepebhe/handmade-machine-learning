@@ -9,13 +9,14 @@ Personal challenge : fully re-code some machine learning algos : Random forests 
   - probably much less computionaly efficient
   
 ## Implemented so far:
-  nothing !
+  - linear SVC :
+    - loss options : hinge, suared_hinge
+    - penalty options : l1,l2
+    - kernel : only linear
 
-## In the first phase we will focus on SVM:
-  - hard margin algorythm without kernel (i.e. classify only lineary separable data)
-  - soft margin (with simple hinge function)
+## Next steps:
   - kernel trick with simple kernels : prolynomials
-  - classifiers only
+  - create a pedagogical tutorial notebook about linear SVC
  
 ## To be coded later :
   - more for svm :
