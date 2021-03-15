@@ -1,3 +1,5 @@
+# ⚠️ DEPRECIATED : This package has been merged with another personal Deep Learning library under https://github.com/bdepebhe/handmadeML.git
+
 # handmade-machine-learning
 
 Personal challenge : fully re-code some machine learning algos : Random forests (including xgboost), svm, etc..
